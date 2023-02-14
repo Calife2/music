@@ -10,5 +10,13 @@ it as a suitable sound
 Music is the combination and arrangement of sounds that are pleasant to the ear.
 whenever a sound is well arranged it produces music 
 properties of music can be mentioned in the following branch
- main
- main
+ 
+ 
+ music is the combination and arrangement of sundas that are pleasant to the ear
+ any music can be made out of sound 
+ lets talk about properties of music
+ properties of music are the characheristics that can be found in music
+ Pitch: pitch is the going up and coming down of sound
+ Duration : duration is the amount of time spent on a perticular note
+ Intensity: Intensity is the loudness and softneess of sound
+ Quality: Quality is the ability to defferentiate between diffrent types of sounds
