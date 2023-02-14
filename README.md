@@ -1,4 +1,4 @@
-# music
+i# music
  piano
 Piano is the mother of all musical instruments 
 Piano gives quality meaning to other musical instrument and makes them sound appropriately 
@@ -20,3 +20,6 @@ properties of music can be mentioned in the following branch
  Duration : duration is the amount of time spent on a perticular note
  Intensity: Intensity is the loudness and softneess of sound
  Quality: Quality is the ability to defferentiate between diffrent types of sounds
+
+ We can also move to staff: which is known as five lines and four spaces on which musical notes are written 
+ The lines and the spaces of the staff can be regarded as music book
